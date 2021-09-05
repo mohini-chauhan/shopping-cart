@@ -28,7 +28,7 @@ The website displays products. Users can add and remove products to/from their c
     ```
     npm install
     ```
-4. run project
+4. Run project
     ```
     npm start
     ```
