@@ -1,4 +1,4 @@
-# E-commerce Shopping cart website
+# E-commerce Shopping cart website.
 
 This is a very simple e-commerce website built with ReactJs.
 
