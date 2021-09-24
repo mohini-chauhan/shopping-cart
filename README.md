@@ -1,8 +1,9 @@
-# E-commerce Shopping cart 
+# E-commerce Shopping cart website
 
 This is a very simple e-commerce website built with ReactJs.
 
 # Quick demo:
+
 
 <img src="demo/landing.png">
 <img src="demo/product.png">
@@ -32,3 +33,4 @@ The website displays products. Users can add and remove products to/from their c
     ```
     npm start
     ```
+
